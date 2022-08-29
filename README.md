@@ -22,4 +22,5 @@ source ~/.zshrc
 
 #### 4 - Take an theme
 If you are a mac user, download iterm2 and then: https://github.com/sindresorhus/iterm2-snazzy
+
 If you are a windows user: https://github.com/Richienb/windows-terminal-snazzy
