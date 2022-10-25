@@ -68,3 +68,10 @@ Select Import... from the list
 Select the Dracula.itermcolors file
 Select the Dracula from Color Presets...
 ```
+
+### VSCode Settings
+
+Sync gist to VSCode:
+```
+https://gist.github.com/leonanluppi/814b29feb7a35628610b9bb359cec1bd
+```
